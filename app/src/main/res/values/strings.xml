@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="dialog_title">Add a new product</string>
+    <string name="dialog_name">Name</string>
+    <string name="dialog_count">Count</string>
+    <string name="dialog_price">Price</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="add_button">Add product</string>
+</resources>
